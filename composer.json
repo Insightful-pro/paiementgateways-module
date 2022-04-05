@@ -1,5 +1,5 @@
 {
-    "name": "insightful-pro/paiementgateways-module",
+    "name": "insightful/paiementgatewaysmodule",
     "description": "",
     "version": "1.0.0",
     "type": "laravel-module",
