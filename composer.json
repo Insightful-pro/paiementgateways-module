@@ -1,6 +1,6 @@
 {
     "name": "insightful-pro/paiement-gateways-module",
-    "description": "",
+    "description": "Gestion paiements sécurisés",
     "version": "1.0.0",
     "type": "laravel-module",
     "authors": [
