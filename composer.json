@@ -1,0 +1,27 @@
+{
+    "name": "insightful-pro/paiementgateways-module",
+    "description": "",
+    "version": "1.0.0",
+    "type": "laravel-module",
+    "authors": [
+        {
+            "name": "Hosni Mabrouk",
+            "email": "hosni.mabrouk@gmail.com"
+        }
+    ],
+
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+
+        "psr-4": {
+            "Modules\\PaiementGateways\\": ""
+        }
+    }
+}
